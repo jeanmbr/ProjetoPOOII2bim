@@ -1,0 +1,16 @@
+# Arquivos compilados do Java
+*.class
+
+# Pastas do NetBeans
+build/
+dist/
+nbproject/
+nb-configuration.xml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log
+*.tmp
